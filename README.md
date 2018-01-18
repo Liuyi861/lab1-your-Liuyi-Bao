@@ -1,3 +1,4 @@
-# lab1-your-gitname
+# lab1-your-Liuyi Bao
 tips to working with git and github
-example commit message
+commit message 
+forks
